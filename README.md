@@ -1,4 +1,4 @@
 # job-portal
-this is my first repositary
-<b>
+this is my First Repositary
+<br>
 author:Rohit Barwal
